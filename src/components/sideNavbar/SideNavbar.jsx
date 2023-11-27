@@ -6,7 +6,7 @@ import leads_Icon from '../../assets/img/svg/leads_Icon.svg';
 import line_separate from '../../assets/img/svg/line_separate.svg';
 import help_Icon from '../../assets/img/svg/help_Icon.svg';
 import setting_Icon from '../../assets/img/svg/setting_Icon.svg';
-import report_Icon from '../../assets/img/svg/report_Icon.svg';
+import report_Icon from "../../assets/img/svg/report_icon.svg"
 import curve_Icon from '../../assets/img/svg/curve.svg';
 
 
