@@ -1,13 +1,14 @@
-import logo from "../../assets/img/svg/logo.svg"
-import dashboard_Icon from "../../assets/img/svg/dashboard_Icon.svg"
-import team_Icon from "../../assets/img/svg/team_Icon.svg"
-import addTeam_Icon from "../../assets/img/svg/addTeam_Icon.svg"
-import leads_Icon from "../../assets/img/svg/leads_Icon.svg"
-import line_separate from "../../assets/img/svg/line_separate.svg"
-import help_Icon from "../../assets/img/svg/help_Icon.svg"
-import setting_Icon from "../../assets/img/svg/setting_Icon.svg"
-import report_Icon from "../../assets/img/svg/report_Icon.svg"
-import curve_Icon from "../../assets/img/svg/curve.svg"
+import logo from '../../assets/img/svg/logo.svg';
+import dashboard_Icon from '../../assets/img/svg/dashboard_Icon.svg';
+import team_Icon from '../../assets/img/svg/team_Icon.svg';
+import addTeam_Icon from '../../assets/img/svg/addTeam_Icon.svg';
+import leads_Icon from '../../assets/img/svg/leads_Icon.svg';
+import line_separate from '../../assets/img/svg/line_separate.svg';
+import help_Icon from '../../assets/img/svg/help_Icon.svg';
+import setting_Icon from '../../assets/img/svg/setting_Icon.svg';
+import report_Icon from '../../assets/img/svg/report_Icon.svg';
+import curve_Icon from '../../assets/img/svg/curve.svg';
+
 
 
 import { Button, Image, Box, Text } from '@chakra-ui/react'
