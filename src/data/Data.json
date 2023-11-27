@@ -1,0 +1,87 @@
+
+[
+    {
+      "id": 1,
+      "name": "Priya sharma",
+      "email": "priyasharam@example.com",
+      "mobile": "123-456-7890",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "mobile": "987-654-3210",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+      
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 4,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 5,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 6,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 7,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 8,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    },
+    {
+      "id": 9,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "mobile": "555-555-5555",
+      "call_Icon":"./../assets/img/svg/call.svg",
+      "msg_Icon":"./../assets/img/svg/msg.svg"
+      
+    }
+    
+  ]
+  
